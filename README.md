@@ -74,32 +74,34 @@
 ```bash
 git clone https://github.com/Chulyakov/DevPortfolio.git
 cd DevPortfolio
-
-2. Установка зависимостей
-bash
+```
+### 2. Установка зависимостей
+```bash
 composer install
 npm install
-3. Настройка окружения
-bash
+```
+###3. Настройка окружения
+```bash
 cp .env.example .env
 php artisan key:generate
-4. Настройка базы данных
-В файле .env укажите:
-
-text
+```
+###4. Настройка базы данных
+```В файле .env укажите:
 DB_CONNECTION=sqlite
 DB_DATABASE=/absolute/path/to/database.sqlite
 Затем создайте файл базы и выполните миграции:
-
-bash
+```
+```bash
 touch database/database.sqlite
 php artisan migrate
-5. Создание символической ссылки для файлов
-bash
+```
+###5. Создание символической ссылки для файлов
+```bash
 php artisan storage:link
-6. Запуск сервера разработки
-bash
+```
+###6. Запуск сервера разработки
+```bash
 npm run dev
 php artisan serve
 Откройте браузер по адресу: http://localhost:8000
-
+```
