@@ -156,6 +156,48 @@ php artisan serve
 | `specialty` | string | Специальность |
 | `course` | integer | Курс |
 
+## 📸 Скриншоты приложения
+
+| **Главная до входа** | **Главная после входа** |
+|:---------------------:|:------------------------:|
+| ![Главная-Вход](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D0%92%D1%85%D0%BE%D0%B4.png) | ![Главная после входа](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B2%D1%85%D0%BE%D0%B4%D0%B0.png) |
+
+| **Вход** | **Регистрация** |
+|:--------:|:---------------:|
+| ![Вход](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%92%D1%85%D0%BE%D0%B4.png) | ![Регистрация](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F.png) |
+
+| **Мои работы** | **Добавить работу** |
+|:--------------:|:-------------------:|
+| ![Вкладка Мои работы](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%9C%D0%BE%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.png) | ![вкладка добавить работу](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.png) |
+
+| **Редактирование работы** | **Просмотр работы** |
+|:-------------------------:|:-------------------:|
+| ![Редактирование работы](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.png) | ![просмотр работы](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.png) |
+
+| **Выбор скриншота** | **Генерация описания через ИИ** |
+|:-------------------:|:-------------------------------:|
+| ![выбор скриншота](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D0%B0.png) | ![генерация описания через ии](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%B8%D0%B8.png) |
+
+| **Статистика на главной** | **Вкладка Статистика (часть 1)** |
+|:-------------------------:|:--------------------------------:|
+| ![Статистика на главной](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9.png) | ![вкладка статистика 1](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%201.png) |
+
+| **Вкладка Статистика (часть 2)** | **Работа темной темы** |
+|:-------------------------------:|:----------------------:|
+| ![вкладка статистика 2](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%202.png) | ![работа темной темы](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BC%D1%8B.png) |
+
+| **Вкладка "О себе"** | **Редактирование "О себе"** |
+|:--------------------:|:---------------------------:|
+| ![вкладка о себе](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%BE%20%D1%81%D0%B5%D0%B1%D0%B5.png) | ![редактирование о себе](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%81%D0%B5%D0%B1%D0%B5.png) |
+
+| **Формат печати / PDF** | **Печать отчета по работам** |
+|:-----------------------:|:----------------------------:|
+| ![формат печати и сохранения в pdf](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B8%20%D0%B8%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20pdf.png) | ![печать отчёта по работам](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C%20%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BC.png) |
+
+| **Экспорт в Excel** | **Ссылка "Поделиться"** | **Удаление работы** |
+|:-------------------:|:-----------------------:|:-------------------:|
+| ![экспорт в exel](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%B2%20exel.png) | ![ссылка поделиться](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F.png) | ![удаление работы](https://raw.githubusercontent.com/Hugoloud-bq/devportfoliochsi/main/screenshots/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.png) |
+
 ## 🎯 Планы по развитию
 
 - [ ] 💬 Комментарии преподавателя к работам
