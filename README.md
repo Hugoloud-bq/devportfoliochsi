@@ -80,12 +80,12 @@ cd DevPortfolio
 composer install
 npm install
 ```
-###3. Настройка окружения
+### 3. Настройка окружения
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
-###4. Настройка базы данных
+### 4. Настройка базы данных
 ```В файле .env укажите:
 DB_CONNECTION=sqlite
 DB_DATABASE=/absolute/path/to/database.sqlite
@@ -95,13 +95,13 @@ DB_DATABASE=/absolute/path/to/database.sqlite
 touch database/database.sqlite
 php artisan migrate
 ```
-###5. Создание символической ссылки для файлов
+### 5. Создание символической ссылки для файлов
 ```bash
 php artisan storage:link
 ```
-###6. Запуск сервера разработки
+### 6. Запуск сервера разработки
 ```bash
 npm run dev
 php artisan serve
-Откройте браузер по адресу: http://localhost:8000
 ```
+### Откройте браузер по адресу: http://localhost:8000
