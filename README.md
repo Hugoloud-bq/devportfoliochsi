@@ -152,7 +152,33 @@ php artisan serve
 | `telegram` | string | Telegram |
 | `avatar` | string | Аватар |
 | `skills` | json | Навыки (JSON) |
+
+
 | `university` | string | Учебное заведение |
 | `specialty` | string | Специальность |
 | `course` | integer | Курс |
 
+## 🎯 Планы по развитию
+
+- [ ] 💬 Комментарии преподавателя к работам
+- [ ] ⏰ Уведомления о приближении дедлайнов
+- [ ] 🔌 REST API для мобильного приложения
+- [ ] 📥 Импорт работ из Excel
+- [ ] 🌍 Деплой на хостинг
+- [ ] 🤖 ИИ-генератор описания работ (Gemini API)
+
+---
+
+## 👨‍💻 Автор
+
+**Чуляков Семён Игоревич**  
+Студент, разработчик  
+📧 wrstmmry@yandex.ru
+🐙 [GitHub](https://github.com/Hugoloud-bq)  
+📱 [Telegram](https://t.me/wrstmmry)
+
+---
+
+## 📄 Лицензия
+
+Проект распространяется под лицензией **MIT**. Подробнее — в файле [LICENSE](LICENSE).
