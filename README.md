@@ -105,3 +105,54 @@ npm run dev
 php artisan serve
 ```
 ### Откройте браузер по адресу: http://localhost:8000
+
+## 🗂 Структура базы данных
+
+### Таблица `users`
+Стандартные поля Laravel
+
+### Таблица `projects`
+| Поле | Тип | Описание |
+|------|-----|----------|
+| `id` | primary | Первичный ключ |
+| `user_id` | foreign | Владелец проекта |
+| `title` | string | Название |
+| `subject` | string | Предмет |
+| `type` | string | Тип работы |
+| `description` | text | Описание |
+| `github_link` | string | Ссылка на репозиторий |
+| `file_path` | string | Путь к файлу |
+| `tz_status` | boolean | Статус ТЗ |
+| `report_status` | boolean | Статус отчёта |
+| `diary_status` | boolean | Статус дневника |
+| `start_date` | date | Дата начала |
+| `end_date` | date | Дата сдачи |
+| `hours_spent` | integer | Затраченное время |
+| `share_token` | string | Токен для публичного доступа |
+| `timestamps` | - | created_at, updated_at |
+
+### Таблица `screenshots`
+| Поле | Тип | Описание |
+|------|-----|----------|
+| `id` | primary | Первичный ключ |
+| `project_id` | foreign | Связь с проектом |
+| `path` | string | Путь к скриншоту |
+| `timestamps` | - | created_at, updated_at |
+
+### Таблица `abouts`
+| Поле | Тип | Описание |
+|------|-----|----------|
+| `id` | primary | Первичный ключ |
+| `user_id` | foreign | Владелец профиля |
+| `name` | string | Имя |
+| `title` | string | Должность |
+| `bio` | text | О себе |
+| `email` | string | Email |
+| `github` | string | GitHub |
+| `telegram` | string | Telegram |
+| `avatar` | string | Аватар |
+| `skills` | json | Навыки (JSON) |
+| `university` | string | Учебное заведение |
+| `specialty` | string | Специальность |
+| `course` | integer | Курс |
+
